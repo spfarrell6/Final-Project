@@ -16,6 +16,7 @@ The Toxics Release Inventory (TRI) data provides information about toxic substan
 - Link for the dataset ; https://data.wprdc.org/dataset/toxic-release-inventory/resource/c9baaa77-2dc5-494c-a2ce-f90db9106df2
 
 3. Pittsburgh public school enrollment - Dataset description:
+This dataset includes enrollment data for Pittsburgh Public Schools. Data is presented by school, feeder pattern / attendance boundary, and by neighborhood. A table also includes data on the number of students attending schools by neighborhood. Data includes preschool students through 12th grade.This data can be very useful in understanding neighborhood-level enrollment patterns, student demographics by neighborhood and school, and can also be used to inform school-community partnerships.
 
 - Link for the dataset ; https://data.wprdc.org/en_GB/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70
 
