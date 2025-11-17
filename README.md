@@ -17,7 +17,7 @@ The Toxics Release Inventory (TRI) data provides information about toxic substan
 
 3. Pittsburgh public school enrollment - Dataset description:
 
-- Link for the dataset ; 
+- https://data.wprdc.org/en_GB/dataset/pittsburgh-public-schools-enrollment/resource/7b0660d1-c812-496d-ab0a-8560902e9e70
 
 
 ## Overview of the repository
