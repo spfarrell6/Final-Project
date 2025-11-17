@@ -22,4 +22,4 @@ This dataset includes enrollment data for Pittsburgh Public Schools. Data is pre
 
 
 ## Overview of the repository
-This repository contains three environmental datasets—air quality levels, toxic water releases, and Pittsburgh public school enrollment—to help identify and compare which neighborhood offers the healthiest and most sustainable living conditions.
+This repository contains three environmental datasets—air quality levels, toxic water releases, and Pittsburgh public school enrollment—to help identify and compare which neighborhood offers the healthiest and most sustainable living conditions, thus determining the best neighborhood to be Liberty.
