@@ -18,3 +18,7 @@ The Toxics Release Inventory (TRI) data provides information about toxic substan
 3. Pittsburgh public school enrollment - Dataset description:
 
 - Link for the dataset ; 
+
+
+## Overview of the repository
+This repository contains three environmental datasets—air quality levels, toxic water releases, and Pittsburgh public school enrollment—to help identify and compare which neighborhood offers the healthiest and most sustainable living conditions.
